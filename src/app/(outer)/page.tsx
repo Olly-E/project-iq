@@ -34,7 +34,7 @@ export default function Home() {
           </p>
 
           <a
-            href="mailto:akinsnuel@gmail.com?Subject=Hello%20again"
+            href="mailto:piqservices@gmail.com?Subject=Hello%20again"
             target="_blank"
             className="mt-10 mx-auto xl:ml-0 flex items-center bg-primary w-fit gap-4 px-4 py-2 rounded-full"
           >
